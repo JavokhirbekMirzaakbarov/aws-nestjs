@@ -26,6 +26,8 @@
 
 ## Description
 
+Task-8 for AWS Cloud Practitioner Course
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
